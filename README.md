@@ -1,2 +1,2 @@
-# BolMogQC
-Config files for my GitHub profile.
+# Loïc Pouget
+.Net Enjoyer
